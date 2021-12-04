@@ -1,3 +1,5 @@
 ## Alex Barry
 
-Hi
+### Projects
+
+* [**AlexCalc**](https://github.com/alexbarry/AlexCalc), a scientific calculator with LaTeX equation display and support for variables, units, and complex numbers.
